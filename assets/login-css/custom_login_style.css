@@ -1,0 +1,55 @@
+
+.main {
+    border: 1px solid black;
+   }   
+   .Main {
+    height: auto;
+    width: 400px;
+    padding-top:50px;
+    padding-bottom:50px;
+    border-radius: 5px;
+    margin-left: 350px;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+       }
+   
+   .logimg {
+    width: 100px;
+    height: 100px;
+    border-radius: 20px;
+    display: flex;
+    margin-left: 150px;
+   
+   }
+   
+   .logsize {
+    width: 250px;
+    height: 30px;
+    border-radius: 5px;
+    font-size: 10px;
+    text-align: center;
+    margin: 2px;
+    margin-left: 75px;
+   }
+   
+   .submit {
+    width: 250px;
+    height: 30px;
+    border-radius: 20px;
+    margin: 5px;
+    margin-left: 75px;
+   }
+   #loginbtn {
+
+   }
+   .logforget{
+    text-decoration: none;
+    margin-left: 100px;
+    color: black;
+    font-size: small;
+   }
+   .back{
+    text-decoration: none;   
+    color: black; 
+    margin-left: 75px;
+   
+   }

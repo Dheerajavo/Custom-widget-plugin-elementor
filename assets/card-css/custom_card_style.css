@@ -1,0 +1,41 @@
+.widget_card {
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 5px;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+    background-color: #fff;
+    text-align: center;
+}
+
+.widget_card_content {
+    display: flex;
+    border: 2px solid red;
+}
+
+.widget_card_title {
+    font-size: 24px;
+    margin: 10px 0;
+    color: #333;
+}
+
+.widget_card_sub_title {
+    font-size: 18px;
+    margin: 10px 0;
+    color: #666;
+}
+
+.widget_card_image {
+    max-width: 100%;
+    height: auto;
+    margin: 10px 0;
+    border-radius: 5px;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.widget_card_description {
+    font-size: 16px;
+    color: #888;
+    line-height: 1.5;
+}
+
